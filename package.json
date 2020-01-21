@@ -1,9 +1,9 @@
 {
-  "name": "angular-seed",
+  "name": "TFAB",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "Time For A Budget - personal time tracking and prioritization app based on YNAB's Four Rules.",
+  "repository": "https://github.com/Aurifier/TFAB",
   "license": "MIT",
   "dependencies": {
     "angular": "^1.7.9",
